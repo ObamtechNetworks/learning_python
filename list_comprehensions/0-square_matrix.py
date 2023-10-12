@@ -16,4 +16,4 @@ def square_matrix_simple(matrix=[]):
             raise ValueError("Invalid element in 2D array")
 
     else:
-        raise ValueError("Invalid input")
+        raise ValueError("Invalid input!")
